@@ -1,0 +1,19 @@
+{
+  "name": "nodeopeniexample1",
+  "version": "1.0.0",
+  "main": "example.mjs",
+  "scripts": {
+    "start": "node example.mjs",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "openai": "^4.67.3"
+  },
+  "devDependencies": {
+    "dotenv": "^16.4.5"
+  }
+}
