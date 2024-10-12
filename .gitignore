@@ -5,6 +5,5 @@ package-lock.json
 
 # ENV
 .env
-.env.*
 
 *.DS_store
